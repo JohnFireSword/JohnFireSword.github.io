@@ -1,0 +1,41 @@
+html {
+  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+ font-family: 'Oswald', sans-serif;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #96ACB0;
+}
+
+body {
+  width: 590px;
+  margin: auto;
+  background-color: #BD1D1D;
+  padding: 0 20px 20px 20px;
+  border: 7px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #96ACB0;
+  text-shadow: 4px 4px 2px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+  border: 2px solid black;
+}
+
