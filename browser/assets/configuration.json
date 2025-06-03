@@ -1,0 +1,6 @@
+{
+  "apiEndpoint": "https://api.example.com",
+  "link1": "http://amazon.com",
+  "link2": "http://google.com",
+  "link3": "http://facebook.com"
+}
